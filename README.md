@@ -61,6 +61,22 @@
 
 <h3>QUESTION 10</h3>
 <p>Créer la couche Service (métier) et du micro service</p>
+<img src="Captures/capture14.jpg" alt="">
+
+<h3>QUESTION 11</h3>
+<p>Créer un Web service GraphQL pour ce Micro-service</p>
+<ul>
+<li> Consulyer la liste des comptes avec graphQL <img src="Captures/capture15.jpg" alt=""> </li><br>
+<li>Récupérer les informations d'un compte grace a l'identifiant <img src="Captures/capture16.jpg" alt=""></li><br>
+<li>Personnaliser le message d'erreur lorsqu'un compte n'exsite pas <img src="Captures/capture17.jpg" alt=""></li><br>
+<li>Ajouter un nouveau compte via de variables prédéfinies <img src="Captures/capture18.jpg" alt=""></li><br>
+<li>Modifier les informations d'un compte grace a l'identifiant <img src="Captures/capture19.jpg" alt=""></li><br>
+<li>Supprimer un compte grace a l'identifiant <img src="Captures/capture20.jpg" alt=""></li><br>
+<li>Consulter la liste des comptes avec leurs clients correspondants <img src="Captures/capture21.jpg" alt=""></li><br>
+<li>Consulter la liste des clients et leurs comptes respectifs (id , nom, comptes) <img src="Captures/capture22.jpg" alt=""></li><br>
+</ul>
+
+<h3>FIN</h3>
 
 
 
